@@ -230,7 +230,7 @@
 		 areas and classified lifting events by structure. 
                   </p>
 		 
-		 <h3>Brown University Department of Physics</h3>
+		 <h3>Research Assistant in Brown University's Department of Physics</h3>
 		 <em class="date">2012-2013</em></p>
                   <p>
 		 Studied the orientation and mobility of the 1P
@@ -238,7 +238,7 @@
 		 of Professor Humphrey Maris.  
                   </p>
 
-		 <h3>Yale University School of
+		 <h3>Research Assistant in Yale University's School of
 		 Engineering and Applied Science</h3>
 		 <em class="date">Summer 2010</em></p>
 
@@ -267,6 +267,63 @@
    ================================================== -->
    <section id="resume">
 
+      <!-- Cfa
+      ----------------------------------------------- -->
+      
+      <div class="row">
+
+         <div class="three columns">
+
+            <img width="200" height="200" img class="profile-pic"  src="images/presentations/cfa.jpg" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+
+            <h2>Presentations</h2>
+	   
+                  <p class="info">Harvard-Smithsonian Center for Astrophysics
+                  <span>&bull;</span> <em class="date">August
+                  2013</em></p>
+
+	         <p>
+                  Discussed my work with Dr. Huiqun Wang on Martian
+                  dust lifting, inlcuding seasonal and size
+                  distributions, lifting frequency, and morphological
+                  properties. Click <a
+                  href="documents/Mars_Dust_Lifting.pdf"> here </a> to
+                  see my presentation slides.
+	   
+	   </div>
+	   </div>
+	   
+      <!-- AAS
+      ----------------------------------------------- -->
+
+      <div class="row">
+	
+         <div class="three columns">
+	   
+            <img width="200" height="200" img class="profile-pic"  src="images/presentations/aas.png" alt="" />
+
+         </div>
+
+         <div class="nine columns main-col">
+	   
+                  <p class="info">American Astronomical Society
+                  Meeting
+                  <span>&bull;</span> <em class="date">January
+                  2014</em></p>
+
+	         <p>
+                  Discussed my work with Dr. Huiqun Wang on Martian
+                  dust lifting. Received the Chambliss Student Poster
+                  Award Honorable Mention. Click <a
+                  href="documents/Laura_Kulowski_AAS_Poster.pdf"> here </a> to
+                  see my poster.
+	   </div>
+	   </div>
+	   
       <!-- Stanford 
       ----------------------------------------------- -->
       <div class="row">
@@ -278,8 +335,6 @@
          </div>
 
          <div class="nine columns main-col">
-
-            <h2>Presentations</h2>
 	   
                   <p class="info">Stanford University Summer Research
                   Poster Session
@@ -296,94 +351,7 @@
 
 	   </div>
 	   </div>
-	  
-      <!-- AAS
-      ----------------------------------------------- -->
-
-      <div class="row">
-	
-         <div class="three columns">
 	   
-            <img width="200" height="200" img class="profile-pic"  src="images/presentations/aas.png" alt="" />
-
-         </div>
-
-         <div class="nine columns main-col">
-	   
-                  <p class="info">American Astronomical Society
-                  Poster Session
-                  <span>&bull;</span> <em class="date">January
-                  2014</em></p>
-
-	         <p>
-                  Discussed my work with Dr. Huiqun Wang on Martian
-                  dust lifting. Received the Chambliss Student Poster
-                  Award Honorable Mention. Click <a
-                  href="documents/Laura_Kulowski_AAS_Poster.pdf"> here </a> to
-                  see my poster.
-	   </div>
-	   </div>
-
-      <!-- Cfa
-      ----------------------------------------------- -->
-      
-      <div class="row">
-
-         <div class="three columns">
-
-            <img width="200" height="200" img class="profile-pic"  src="images/presentations/cfa.jpg" alt="" />
-
-         </div>
-
-         <div class="nine columns main-col">
-
-
-	   
-                  <p class="info">Smithsonian Astrophysical Observatory Astronomy Intern Symposium
-                  <span>&bull;</span> <em class="date">August
-                  2013</em></p>
-
-	         <p>
-                  Discussed my work with Dr. Huiqun Wang on Martian
-                  dust lifting, inlcuding seasonal and size
-                  distributions, lifting frequency, and morphological
-                  properties. Click <a
-                  href="documents/Mars_Dust_Lifting.pdf"> here </a> to
-                  see my presentation slides.
-	   
-	   </div>
-	   </div>
-
-
-      <!-- Brown 
-      ----------------------------------------------- -->
-      
-      <div class="row">
-
-         <div class="three columns">
-
-            <img width="200" height="200" img class="profile-pic"  src="images/presentations/brown.jpg" alt="" />
-
-         </div>
-
-         <div class="nine columns main-col">
-
-	   
-                  <p class="info">Brown University Summer Research Symposium
-                  <span>&bull;</span> <em class="date">August
-                  2012</em></p>
-
-		  <p>
-		    Discussed my work with Professor Humphrey Maris on the mobility and orientation of the 1P electron bubble. 
-
-
-	   
-	   </div>
-	   </div>
-	   
-
-	   
-
 
    </section> <!-- Portfolio Section End-->
 
